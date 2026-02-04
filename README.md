@@ -3,7 +3,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <h1 align="center">
-  <img src="https://files.catbox.moe/snae53.jpg" alt="𝙁𝘼𝙃𝙀𝙀𝙈-𝙈𝘿" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
+  <img src="https://files.catbox.moe/n8t7wb.jpg" alt="𝙁𝘼𝙃𝙀𝙀𝙈-𝙈𝘿" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
 </h1>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -21,7 +21,7 @@
 </h1>
 
 <p align="center">
-  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">ADEEL</span> 🚀</b>
+  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">FAHEEM</span> 🚀</b>
 </p>
 
 ---
@@ -29,13 +29,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ⭐ 𝐅𝐎𝐑𝐊 & 𝐒𝐓𝐀𝐑
 <p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/fork">
+  <a href="https://github.com/feemo0/FAHEEM-MD/fork">
     <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <!-- ⭐ AUTO-UPDATE STAR BADGE (SPACING FIXED) -->
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/Adeel-Xtech/ADEEL-MD?style=for-the-badge&color=gold&logo=github" />
+  <a href="https://github.com/feemo0/FAHEEM-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/feemo0/FAHEEM-MD?style=for-the-badge&color=gold&logo=github" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🔑 𝐆𝐄𝐓 𝐏𝐀𝐈𝐑
 <p align="center">
-  <a href="https://adeel-xtech-97cef03b1167.herokuapp.com/">
+  <a href="https://faheem-md-pair-c09445b79312.herokuapp.com/">
     <img src="https://img.shields.io/badge/Get-PAIR_CODE-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -70,10 +70,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 📡 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐒
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C">
+  <a href="https://whatsapp.com/channel/0029VbBDkMV05MUnspQOhf1A">
     <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=+923035512967&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">
+  <a href="https://api.whatsapp.com/send?phone=+923337862496&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">
     <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -117,6 +117,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h2 align="center">
-  🌈✨ ᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ <span style="color:#00FFFF">𝐀𝐃𝐄𝐄𝐋-𝐌𝐃</span>✨🌈
+  🌈✨ ᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ <span style="color:#00FFFF">𝐅𝐀𝐇𝐄𝐄𝐌-𝐌𝐃</span>✨🌈
 </h2>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
