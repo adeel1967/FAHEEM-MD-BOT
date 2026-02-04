@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['923337862496']
+  const ownerNumber = ['923035512967']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -150,8 +150,8 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there FAHEEM-MD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet FAHEEM-MD WhatsApp Bot.\n\n *Thanks for using FAHEEM-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VbBDkMV05MUnspQOhf1A \n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/feemo0/FAHEEM-MD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ғᴀʜᴇᴇᴍ-ᴍᴅ ❣️ \ud83d\udda4`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/snae53.jpg` }, caption: up })
+  let up = `*Hello there ADEEL-MD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet ADEEL-MD WhatsApp Bot.\n\n *Thanks for using ADEEL-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C \n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/feemo0/FAHEEM-MD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ғᴀʜᴇᴇᴍ-ᴍᴅ ❣️ \ud83d\udda4`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/hg5hj6.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -266,7 +266,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split(`@`)[0]
-const qadeer = ['923337862496','923337862496'] 
+const qadeer = ['923337862196','923337862196'] 
 const dev = [] 
 
 let isCreator = [udp, ...qadeer, ...dev]
@@ -315,7 +315,7 @@ let isCreator = [udp, ...qadeer, ...dev]
 				}
  //================ownerreact==============
     
-if (senderNumber.includes("923337862496") && !isReact) {
+if (senderNumber.includes("923337862196") && !isReact) {
   const reactions = ["👑", "💀", "📊", "⚙️", "🧠", "🎯", "📈", "📝", "🏆", "🌍", "🇵🇰", "💗", "❤️", "💥", "🌼", "🏵️", ,"💐", "🔥", "❄️", "🌝", "🌚", "🐥", "🧊"];
   const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
   m.react(randomReaction);
@@ -349,8 +349,8 @@ if (!isReact && config.AUTO_REACT === 'true') {
           
 // custum react settings        
 const newsletterJids = [
-  "120363374742198780@newsletter",
-  "0029VbBDkMV05MUnspQOhf1A@newsletter"
+  "120363315182578784@newsletter",
+  "120363403380688821@newsletter"
 ];
 const emojis = ["❤️", "💚", "🤍", "🩵", "🩷", "🪷", "🪸", "🍷", "🍬", "🌎", "🍨", "🌸", "🪄"];
 
