@@ -9,25 +9,16 @@
 </h1>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h2 align="center"><b>CoooDer</b>
+</h2>
 
-<h1 align="center">
-  <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00); 
-               -webkit-background-clip: text; 
-               color: transparent; 
-               font-size: 45px; 
-               font-weight: bold;">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    ✨𝙁𝘼𝙃𝙀𝙀𝙈-𝙈𝘿✨
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </span>
-</h1>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
 <p align="center">
-  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">FAHEEM</span> 🚀</b>
-</p>
-
----
-
+  <a href="https://codehavennn.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=github,html,css,js,ts,react,bootstrap,vscode,idea,figma,nodejs,nextjs,mysql,photoshop" />
+  </a>
+</br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ⭐ 𝐅𝐎𝐑𝐊 & 𝐒𝐓𝐀𝐑
 <p align="center">
@@ -52,9 +43,6 @@
     <img src="https://img.shields.io/badge/Get-PAIR_CODE-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-<p align="center">📲 Click above button to generate your <b>Session ID</b> (required for deployment).</p>
-
----
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🚀 𝐃𝐄𝐏𝐋𝐎𝐘𝐄 𝐍𝐎𝐖 
@@ -63,7 +51,6 @@
     <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
 </p>
-<p align="center">🪸 𝐃𝐄𝐏𝐋𝐎𝐘𝐄 ᴏɴ ʜᴇʀᴏᴋᴜ 🐍🍷</p>
 
 <!-- ❌ RENDER SECTION DELETED AS REQUESTED -->
 
@@ -81,37 +68,24 @@
 </p>
 <p align="center">📢 Stay connected with <b>Channel</b> & <b>Owner</b> for updates.</p>
 
----
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ⚡𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
-- ✅ MEDIA DOWNLOAD 📺 | Many cool features 🍷  
-- ✅ GROUP FUCHER 𓆩🐍 | Many cool features 🍷  
-- ✅ AUTO REPLY 🍨 | Many cool features 🍷  
-- ✅ AUTO RECORDING HYPING | Many cool features 🍷  
-✨ MORE FEATURES ON THIS BOARD ✨  
-
----
+:-) ✅ MEDIA DOWNLOAD 📺 | Many cool features 🫧  
+:-) ✅ GROUP FUCHER 𓆩🐍 | Many cool features 🫧  
+:-) ✅ AUTO REPLY 🍨 | Many cool features 🫧  
+:-) ✅ AUTO RECORDING HYPING | Many cool features 🫧  
+:-) MORE FEATURES ON THIS BOARD ©  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 𝐑𝐄𝐌𝐈𝐍𝐃𝐄𝐑
-❌ NOTICE: This bot is NOT affiliated with WhatsApp Inc.
 
-⚡ WARNING: Any misuse, spam, or violation of rules may result 
-   in your number being permanently banned from using this bot.
-
-📌 Please use this bot responsibly and follow the guidelines 
-   to avoid any issues.  
-
-- 🛡️ Owner is not responsible for any misuse.  
-
----
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
+</picture>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 📝 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑
 🎯 This bot is made for **Learning & Fun purposes only**.
-
-❌ Do not misuse, sell, or use without giving proper credits.
 
 ✨ Enjoy responsibly and respect the creator’s work.  
 
