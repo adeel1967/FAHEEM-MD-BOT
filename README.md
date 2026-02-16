@@ -1,5 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-«𝙁𝘼𝙃𝙀𝙀𝙈-𝙈𝘿»
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'M+FaHeeM!;" />
+</h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <h1 align="center">
