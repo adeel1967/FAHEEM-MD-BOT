@@ -22,7 +22,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ⭐ 𝐅𝐎𝐑𝐊 & 𝐒𝐓𝐀𝐑
 <p align="center">
-  <a href="https://github.com/feemo0/FAHEEM-MD/fork">
+  <a href="https://feemo-pair-f63f73d24278.herokuapp.com/">
     <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
