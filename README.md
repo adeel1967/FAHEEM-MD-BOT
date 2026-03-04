@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'M+FaHeeM!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS+FOR+USING+FAHEEM-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FEEMOO" alt="FAHEEM-MD Typing SVG" /></a>
 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
